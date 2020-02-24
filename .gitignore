@@ -1,0 +1,6 @@
+/input/*
+/submission/*
+/output/*
+/src/notebook/.ipynb_checkpoints/*
+/output/*
+!.gitkeep
