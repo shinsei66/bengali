@@ -3,4 +3,7 @@
 /output/*
 /src/notebook/.ipynb_checkpoints/*
 /output/*
+/src/logs/*
+/src/models/*
+/src/notebook/__pycache__/*
 !.gitkeep
